@@ -29,10 +29,10 @@ tsc --init
 ```json
 {
   "compilerOptions": {
-    #〜省略〜
+    // 〜省略〜
     "target": "ES2022",
-    "outDir": "./dist", #コンパイルされたJavaScriptファイルが出力されるディレクトリを指定する
-    #〜省略〜
+    "outDir": "./dist", // コンパイルされたJavaScriptファイルが出力されるディレクトリを指定する
+    // 〜省略〜
   }
 }
 ```
